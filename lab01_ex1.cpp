@@ -1,10 +1,17 @@
 //=================================================
-// Name: <last name, first name>
-// Email: 
+// Name: <Alaniz, Matthew>
+// Email: malan005@ucr.edu
 // 
-// Lab: <lab n>
-// Lab section: 
-// TA: 
+// Lab: <lab 1>
+// Lab section: 25
+// TA: Kevin
 // 
 //=================================================
 // Write C++ "Hello World" program.
+#include <iosteam>
+using namespace std;
+
+main{
+  cout << "Hello World";
+  return 0;
+}
